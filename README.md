@@ -227,4 +227,4 @@ Standoff 2 is a complete free version with all features and updates included. No
 Download Standoff 2 now and dive into the thrilling world of first-person shooter action! Enjoy the complete experience with all features included.
 
 ---
-**Last updated:** 2026-10-07 02:03:43 UTC
+**Last updated:** 2026-10-07 09:46:25 UTC
